@@ -1,0 +1,260 @@
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: London Heathrow
+Year: 2025
+Total number of departure flights recorded in the 12-hour period: 290
+Total number of flights taking off from runway 1: 151
+Total number of departures of flights that are over 500 miles: 182
+Total number of departure flights by British Airways aircraft: 88
+Total number of flights departing in rain: 153
+Average number of departures per hour: 24.17
+Percentage of total departures that are Air France aircraft: 16.21%
+Percentage of flights with delayed departures: 29.31%
+Total number of hours of rain in the twelve hours: 6
+Most common destination(s): Istanbul
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: London Heathrow
+Year: 2025
+Total number of departure flights recorded in the 12-hour period: 290
+Total number of flights taking off from runway 1: 151
+Total number of departures of flights that are over 500 miles: 182
+Total number of departure flights by British Airways aircraft: 88
+Total number of flights departing in rain: 153
+Average number of departures per hour: 24.17
+Percentage of total departures that are Air France aircraft: 16.21%
+Percentage of flights with delayed departures: 29.31%
+Total number of hours of rain in the twelve hours: 6
+Most common destination(s): Istanbul
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: London Heathrow
+Year: 2025
+Total number of departure flights recorded in the 12-hour period: 290
+Total number of flights taking off from runway 1: 151
+Total number of departures of flights that are over 500 miles: 182
+Total number of departure flights by British Airways aircraft: 88
+Total number of flights departing in rain: 153
+Average number of departures per hour: 24.17
+Percentage of total departures that are Air France aircraft: 16.21%
+Percentage of flights with delayed departures: 29.31%
+Total number of hours of rain in the twelve hours: 6
+Most common destination(s): Istanbul
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: London Heathrow
+Year: 2025
+Total number of departure flights recorded in the 12-hour period: 290
+Total number of flights taking off from runway 1: 151
+Total number of departures of flights that are over 500 miles: 182
+Total number of departure flights by British Airways aircraft: 88
+Total number of flights departing in rain: 153
+Average number of departures per hour: 24.17
+Percentage of total departures that are Air France aircraft: 16.21%
+Percentage of flights with delayed departures: 29.31%
+Total number of hours of rain in the twelve hours: 6
+Most common destination(s): Istanbul
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: London Heathrow
+Year: 2025
+Total number of departure flights recorded in the 12-hour period: 290
+Total number of flights taking off from runway 1: 151
+Total number of departures of flights that are over 500 miles: 182
+Total number of departure flights by British Airways aircraft: 88
+Total number of flights departing in rain: 153
+Average number of departures per hour: 24.17
+Percentage of total departures that are Air France aircraft: 16.21%
+Percentage of flights with delayed departures: 29.31%
+Total number of hours of rain in the twelve hours: 6
+Most common destination(s): Istanbul
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: London Heathrow
+Year: 2025
+Total number of departure flights recorded in the 12-hour period: 290
+Total number of flights taking off from runway 1: 151
+Total number of departures of flights that are over 500 miles: 182
+Total number of departure flights by British Airways aircraft: 88
+Total number of flights departing in rain: 153
+Average number of departures per hour: 24.17
+Percentage of total departures that are Air France aircraft: 16.21%
+Percentage of flights with delayed departures: 29.31%
+Total number of hours of rain in the twelve hours: 6
+Most common destination(s): Istanbul
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
+Airport: London Heathrow
+Year: 2025
+Total number of departure flights recorded in the 12-hour period: 290
+Total number of flights taking off from runway 1: 151
+Total number of departures of flights that are over 500 miles: 182
+Total number of departure flights by British Airways aircraft: 88
+Total number of flights departing in rain: 153
+Average number of departures per hour: 24.17
+Percentage of total departures that are Air France aircraft: 16.21%
+Percentage of flights with delayed departures: 29.31%
+Total number of hours of rain in the twelve hours: 6
+Most common destination(s): Istanbul
+--------------------------------------------------
+Airport: Paris Charles de Gaulle
+Year: 2021
+Total number of departure flights recorded in the 12-hour period: 32
+Total number of flights taking off from runway 1: 6
+Total number of departures of flights that are over 500 miles: 23
+Total number of departure flights by British Airways aircraft: 3
+Total number of flights departing in rain: 19
+Average number of departures per hour: 2.67
+Percentage of total departures that are Air France aircraft: 18.75%
+Percentage of flights with delayed departures: 40.62%
+Total number of hours of rain in the twelve hours: 7
+Most common destination(s): Rome Fiumicino
+--------------------------------------------------
