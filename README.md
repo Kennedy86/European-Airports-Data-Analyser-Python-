@@ -17,5 +17,3 @@ Python · Pandas · Matplotlib · CSV · Git
 2. Install requirements: `pip install -r requirements.txt`  
 3. Run with: `python main.py`  
 
-## Example Output
-![Sample Graph](link-to-screenshot-if-you-add-one)
